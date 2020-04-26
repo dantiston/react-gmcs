@@ -50,16 +50,16 @@ export default () => (
       <code>ebender at u dot washington dot edu</code>.
     </p>
     <p>
-      This website is powered by <code>gmcs-react</code>, an alternative Grammar
+      This website is powered by <code>react-gmcs</code>, an alternative Grammar
       Customization website for creating choices files using modern web
       technologies. It is designed to be equivalent to trunk gmcs, but if you
       have issues, try out{" "}
       <a href={"http://matrix.delph-in.net/customize/matrix.cgi"}>
         matrix.delph-in.net/customize/matrix.cgi
       </a>
-      . You can learn more about <code>gmcs-react</code> at{" "}
-      <a href={"https://github.com/dantiston/gmcs-react"}>
-        github.com/dantiston/gmcs-react
+      . You can learn more about <code>react-gmcs</code> at{" "}
+      <a href={"https://github.com/dantiston/react-gmcs"}>
+        github.com/dantiston/react-gmcs
       </a>
       .
     </p>
