@@ -12,8 +12,7 @@ export default () => (
       language, consisting of a language-independent core and customized support
       for the phenomena you describe.
     </p>
-    <p>Navigation + Validation + Downloader</p>
-    <p>Choices management</p>
+    <p>Downloader</p>
     <p>Sample grammars</p>
   </div>
 );

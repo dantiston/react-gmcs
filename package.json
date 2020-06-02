@@ -41,9 +41,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
-    "babel-jest": "^25.4.0",
     "identity-obj-proxy": "^3.0.0",
-    "jest": "^25.4.0",
     "fetch-mock-jest": "^1.2.7",
     "react-test-renderer": "^16.13.1"
   }
